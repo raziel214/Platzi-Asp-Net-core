@@ -1,0 +1,15 @@
+﻿@Model Escuela
+@{
+    ViewData["Title"] = " Informacion Escuela ";
+    Layout = "_Layout";
+}
+
+<div class="text-center">
+    <h1>Escuela @ViewData["Title"]</h1>
+    <h2>Nombre:@Model.EscuelaNombre </h2>
+    <p><strong>Año de fundacion @Model.AñoFundacion </strong></p>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <p><i>@ViewBag.cosadinamica</i></p>
+    <p><i>@ViewData["cosadinamica"]</i></p>
+</div>

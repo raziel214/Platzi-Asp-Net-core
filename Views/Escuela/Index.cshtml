@@ -1,13 +1,19 @@
 ﻿@Model Escuela
 @{
     ViewData["Title"] = " Informacion Escuela ";
-    Layout = "_Layout";
+    Layout = "Simple";
 }
 
 <div class="text-center">
     <h1>Escuela @ViewData["Title"]</h1>
-    <h2>Nombre:@Model.EscuelaNombre </h2>
-    <p><strong>Año de fundacion @Model.AñoFundacion </strong></p>
+    <h2>Nombre:@Model.Nombre </h2>
+    <h3>Tipo Escuela: @Model.TipoEscuela</h3>
+    <addres>
+        <p>Direccción: @Model.Dirección</p>
+        <P>Pais:@Model.Pais</P>
+         <P>Ciudad:@Model.Ciudad</P>
+    </addres>
+    <p><strong>Año de fundacion @Model.AñoDeCreación </strong></p>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 
     <p><i>@ViewBag.cosadinamica</i></p>

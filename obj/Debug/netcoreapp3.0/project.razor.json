@@ -14412,6 +14412,11 @@
       "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Escuela\\Index.cshtml",
       "TargetPath": "Views\\Escuela\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "TargetPath": "Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

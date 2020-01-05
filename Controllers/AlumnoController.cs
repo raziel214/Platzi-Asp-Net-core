@@ -9,7 +9,7 @@ namespace Platzi_Asp_Net_core.Controllers {
         public IActionResult Index () {
             return View (new Alumno {
                 Nombre = "Ibeth Pacheco",
-                    UniqueId = Guid.NewGuid ().ToString ()
+                    Id = Guid.NewGuid ().ToString ()
             });
         }
 
@@ -32,7 +32,7 @@ namespace Platzi_Asp_Net_core.Controllers {
             from a1 in apellido1
             select new Alumno { Nombre = $"{n1} {n2} {a1}" };
 
-            return listaAlumnos.OrderBy ((al) => al.UniqueId).ToList ();
+            return listaAlumnos.OrderBy ((al) => al.Id).ToList ();
         }
     }
 }

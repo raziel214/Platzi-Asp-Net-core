@@ -36,4 +36,7 @@ C:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\
 c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Escuela\Index.cshtml.g.cs
 c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Simple.cshtml.g.cs
 c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Asignatura\Index.cshtml.g.cs
-c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Shared\AsignaturaSimple.cshtml.g.cs
+c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Asignatura\MultiAsignatura.cshtml.g.cs
+c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Shared\ObjetoEscuelaSimple.cshtml.g.cs
+c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Alumno\Index.cshtml.g.cs
+c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Alumno\MultiAlumno.cshtml.g.cs

@@ -14344,18 +14344,23 @@
   "RootNamespace": "Platzi_Asp_Net_core",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\AsignaturaSimple.cshtml",
-      "TargetPath": "Views\\Shared\\AsignaturaSimple.cshtml",
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Alumno\\MultiAlumno.cshtml",
+      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14381,6 +14386,11 @@
     {
       "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\Simple.cshtml",
       "TargetPath": "Views\\Shared\\Simple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Alumno\\Index.cshtml",
+      "TargetPath": "Views\\Alumno\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

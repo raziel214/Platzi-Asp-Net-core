@@ -1,0 +1,23 @@
+﻿@Model Asignatura
+@{
+    ViewData["Title"] = " Informacion Asignatura ";
+    Layout = "Simple";
+    
+}
+
+<div class="text-center">
+   <h1>@ViewData["Title"]</h1>
+  <strong>Desde la vista normal</strong>    
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p>
+    Nombre:@Model.Nombre <br/>
+    Id : @Model.UniqueId
+    </p>
+
+    <strong>Desde la vista parcial</strong>
+      <partial name="AsignaturaSimple" />
+
+    <p><i>@ViewBag.cosadinamica</i></p>
+    <p><i>@ViewData["cosadinamica"]</i></p>
+    <p><i>@ViewData["Fecha"]</i></p>
+</div>

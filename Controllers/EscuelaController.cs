@@ -13,6 +13,7 @@ namespace Platzi_Asp_Net_core.Controllers {
             escuela.Dirección="calle 72L #28 D3 -11";
             escuela.Pais="Colombia";
             escuela.Ciudad="Cali";
+            escuela.TipoEscuela=TiposEscuela.Secundaria;
             ViewBag.CosaDinamica="Las Mejores pruebas";
             return View (escuela);
         }

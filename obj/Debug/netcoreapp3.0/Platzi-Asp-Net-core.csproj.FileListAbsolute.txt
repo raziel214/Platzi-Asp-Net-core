@@ -35,3 +35,5 @@ c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\
 C:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Platzi-Asp-Net-core.csproj.CopyComplete
 c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Escuela\Index.cshtml.g.cs
 c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Simple.cshtml.g.cs
+c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Asignatura\Index.cshtml.g.cs
+c:\Users\Raziel214\Documents\GitHub\Platzi-Asp-Net-core\obj\Debug\netcoreapp3.0\Razor\Views\Shared\AsignaturaSimple.cshtml.g.cs

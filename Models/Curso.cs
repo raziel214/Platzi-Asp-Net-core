@@ -11,6 +11,8 @@ namespace Platzi_Asp_Net_core.Models
         public List<Alumno> Alumnos{ get; set; }
 
         public string Dirección { get; set; }
+        public string EscuelaId { get; set; }
+        public Escuela Escuela { get; set; }
 
 
     }

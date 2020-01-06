@@ -8,16 +8,35 @@
 <div class="text-center">
    <h1>@ViewData["Title"]</h1>
   <strong>Desde la vista normal</strong>    
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    @* <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p> *@
   
 
     <strong>Desde la vista parcial</strong>
      
-
+@* 
 @foreach(var asignatura in Model)
 {
     <partial name="ObjetoEscuelaSimple" model="asignatura"/>
-}
+} *@
+<table class="table table-dark table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Nombre</th>
+            <th scope="col">Id</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach(var asignatura in Model)
+    {
+        <tr>
+            <td>@asignatura.Nombre</td>
+            <td>@asignatura.Id</td>
+        </tr>
+        @* <partial name="ObjetoEscuelaSimple" model="asignatura"/> *@
+    }
+    </tbody>
+
+</table>
 
 
     <p><i>@ViewBag.cosadinamica</i></p>

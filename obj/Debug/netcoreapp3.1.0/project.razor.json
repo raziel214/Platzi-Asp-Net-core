@@ -1,0 +1,110 @@
+{
+  "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Platzi-Asp-Net-core.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "Platzi_Asp_Net_core",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Curso\\MultiCurso.cshtml",
+      "TargetPath": "Views\\Curso\\MultiCurso.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Alumno\\MultiAlumno.cshtml",
+      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Asignatura\\Index.cshtml",
+      "TargetPath": "Views\\Asignatura\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\Simple.cshtml",
+      "TargetPath": "Views\\Shared\\Simple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Alumno\\Index.cshtml",
+      "TargetPath": "Views\\Alumno\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Curso\\Index.cshtml",
+      "TargetPath": "Views\\Curso\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Asignatura\\MultiAsignatura.cshtml",
+      "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Curso\\Create.cshtml",
+      "TargetPath": "Views\\Curso\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Escuela\\Index.cshtml",
+      "TargetPath": "Views\\Escuela\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Raziel214\\Documents\\GitHub\\Platzi-Asp-Net-core\\Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "TargetPath": "Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
